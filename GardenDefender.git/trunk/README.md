@@ -1,2 +1,0 @@
-# GardenDefender
-Garden Defender tutorial
